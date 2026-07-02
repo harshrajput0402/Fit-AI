@@ -64,15 +64,13 @@ FitAI is a modern fitness management platform built using the MERN ecosystem wit
 ```
 FitAI/
 │
-├── frontend/
+├── FitAI-Frontend-main/
 │
-├── backend/
+├── FitAI-Backend-main/
 │
 ├── README.md
-│
-└── .gitignore
 ```
-
+In frontend and backend having different .gitignore file 
 ---
 
 # 🚀 Getting Started
